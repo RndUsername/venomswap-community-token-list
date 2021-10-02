@@ -214,5 +214,13 @@
     "name": "Fraterium Rent",
     "decimals": 9,
     "logoURI": "https://drive.google.com/file/d/1qLaSrRdgEbK8ibxhEp3zrYWGaOyzSybI/view?usp=sharing"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xeeF7192C9795503c23B7d02a9Fd51828102a6E32",
+    "symbol": "BUTTER",
+    "name": "Buttermilchpiraten",
+    "decimals": 18,
+    "logoURI": "https://buttermilchpiraten.de/CoinLogo.png"
   }
 ]
